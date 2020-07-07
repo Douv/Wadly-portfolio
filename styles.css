@@ -81,6 +81,12 @@ h6 {
 }
 
 .skill-item img{
-  width: 200px;
+  width: 250px;
   height: 200px;
+}
+.profile{
+  font-family: 'Montserrat', sans-serif;
+}
+.fas{
+  color: #750714;
 }
